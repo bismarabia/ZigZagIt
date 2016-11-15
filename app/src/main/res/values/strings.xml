@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZigZagIt</string>
+    <string name="correct_guess_achievement">Correct guess..Bravo!!!</string>
+    <string name="number_guesses_leaderboard">Number of guesses in Leaderboard</string>
+</resources>
