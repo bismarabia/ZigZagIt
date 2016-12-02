@@ -1,1 +1,1 @@
-include ':app', ':TrivialQuest2', ':CollectAllTheStars2', ':TrivialQuest', ':SkeletonTbmp', ':ButtonClicker', ':TypeANumber', ':SavedGames', ':libraries:BaseGameUtils', ':BeGenerous'
+include ':app', ':libraries:BaseGameUtils'

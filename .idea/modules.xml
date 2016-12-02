@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/libraries/BaseGameUtils/BaseGameUtils.iml" filepath="$PROJECT_DIR$/libraries/BaseGameUtils/BaseGameUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/BeGenerous/BeGenerous.iml" filepath="$PROJECT_DIR$/BeGenerous/BeGenerous.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BeGenerous/BeGenerous.iml" filepath="$PROJECT_DIR$/BeGenerous/BeGenerous.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BeGenerous/BeGenerous.iml" filepath="$PROJECT_DIR$/BeGenerous/BeGenerous.iml" />
       <module fileurl="file://$PROJECT_DIR$/ButtonClicker/ButtonClicker.iml" filepath="$PROJECT_DIR$/ButtonClicker/ButtonClicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectAllTheStars2/CollectAllTheStars2.iml" filepath="$PROJECT_DIR$/CollectAllTheStars2/CollectAllTheStars2.iml" />
       <module fileurl="file://$PROJECT_DIR$/SavedGames/SavedGames.iml" filepath="$PROJECT_DIR$/SavedGames/SavedGames.iml" />
